@@ -13,5 +13,5 @@
 
 ![image](https://github.com/user-attachments/assets/e7c9d2de-a30f-4345-ad8b-818ff8ff1716)
 
-### **Important Note**
+## **Important Note**
 Ensure all connections to the sensor are correct, as it lacks reverse polarity protection.
